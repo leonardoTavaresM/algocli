@@ -1,7 +1,10 @@
+/*
+Copyright © 2025 NAME HERE <EMAIL ADDRESS>
+*/
 package main
 
-import "fmt"
+import "github.com/leonardoTavaresM/algocli/cmd"
 
 func main() {
-	fmt.Println("Hello CLI :D")
+	cmd.Execute()
 }
